@@ -34,7 +34,8 @@ The group working on this project is composed of:
 - [Nathanael](https://github.com/Nathanael-Mariaule) 
 
 
-![Data analysis](https://cdn.dribbble.com/users/1079204/screenshots/5929782/data-analysis.gif)
+![Data analysis](https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b7611ba633990284d2c0bc85a7e2314edb6906e915a04&rid=giphy.gif&ct=ghttps://cdn.dribbble.com/users/2918596/screenshots/6783174/seo.gif)
+
 
 
 ## Timeline
